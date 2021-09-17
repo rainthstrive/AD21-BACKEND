@@ -34,7 +34,7 @@
 |  | x | Patrón Estructural: Decorador | |
 |  | x | Aplicando los patrones de diseño en Golang | |
 | x |  | **Buenas Prácticas de Desarrollo Back-End** | |
-|  | x | Code Smells | |
+|  | x | Code Smells | x |
 |  | x | Refactorizar Código | |
 |  | x | SOLID | |
 |  | x | Estructurando proyectos en Golang para APIs | |
