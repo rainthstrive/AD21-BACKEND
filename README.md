@@ -34,12 +34,12 @@
 |  | x | Patrón Estructural: Decorador | |
 |  | x | Aplicando los patrones de diseño en Golang | |
 | x |  | **Buenas Prácticas de Desarrollo Back-End** | |
-|  | x | Code Smells | x |
+|  | x | Code Smells | ✔ |
 |  | x | Refactorizar Código | |
 |  | x | SOLID | |
 |  | x | Estructurando proyectos en Golang para APIs | |
 | x |  | **Aplicaciones del Back-End** | |
-|  | x | APIs REST | |
+|  | x | APIs REST | ✔ |
 |  | x | Probando APIs con Postman | |
 |  | x | Salt, Pepper, y Hashing | |
 |  | x | Intercambio de recursos de origen cruzado (CORS) | |
