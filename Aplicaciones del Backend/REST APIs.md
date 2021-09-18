@@ -1,7 +1,8 @@
 # ¿Qué es una API?
 Una Application Program Interface es la forma en que una arquitectura de software se comunica con otra, a partir de peticiones y respuestas mediante métodos expuestos por la aplicación que provee los datos.
 Así pues, podemos hablar de una API como una especificación formal que establece cómo un módulo de un software se comunica o interactúa con otro para cumplir una o muchas funciones.
-![enter image description here](https://geekflare.com/wp-content/uploads/2018/11/apis-everywhere.png)
+
+![enter image description here](https://www.freecodecamp.org/espanol/news/content/images/size/w2000/2020/12/1-F8R-PEI9iVJ-sY3qFZemCg.png)
 
 ## REST API
 Representational State Transfer es una forma sencilla de organizar interacciones entre sistemas independientes.
@@ -18,16 +19,9 @@ Para que una API se considere RESTful, debe cumplir los siguientes criterios:
  4. Un sistema de capas que organiza jerarquías invisibles para el cliente cada uno de los servidores (los encargados de seguridad, equilibrio de carga, etc.) que participan en las peticiones.
  5. Una interfaz uniforme entre los elementos, para que la información se transfiera de forma estandarizada. Para ello deben cumplirse las siguientes condiciones:
 Los recursos solicitados deben ser identificables e independientes de las representaciones enviadas al cliente.
- 5.1. El cliente debe poder manipular los recursos a través de la
-    representación que recibe, ya que esta contiene suficiente
-    información para permitirlo.
- 5.2. Los mensajes autodescriptivos que se envíen al cliente deben
-    contener la información necesaria para describir cómo debe
-    procesarla.
- 5.3. Debe contener hipertexto o hipermedios, lo cual significa que cuando
-    el cliente acceda a algún recurso, debe poder utilizar hipervínculos
-    para buscar las demás acciones que se encuentren disponibles en ese
-    momento.
+ 6. El cliente debe poder manipular los recursos a través de la representación que recibe, ya que esta contiene suficiente información para permitirlo.
+ 7. Los mensajes autodescriptivos que se envíen al cliente deben contener la información necesaria para describir cómo debe procesarla.
+ 8. Debe contener hipertexto o hipermedios, lo cual significa que cuando el cliente acceda a algún recurso, debe poder utilizar hipervínculos para buscar las demás acciones que se encuentren disponibles en ese momento.
 
 ## HTTP
 Este es el protocolo que permite enviar documentos de un lado a otro en la web. Solo tiene dos funciones diferentes: servidor, y cliente.
