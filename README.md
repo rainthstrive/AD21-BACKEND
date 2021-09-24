@@ -40,7 +40,7 @@
 |  | x | Estructurando proyectos en Golang para APIs | |
 | x |  | **Aplicaciones del Back-End** | |
 |  | x | APIs REST | ✔ |
-|  | x | Probando APIs con Postman | |
+|  | x | Probando APIs con Postman | ✔ |
 |  | x | Salt, Pepper, y Hashing | |
 |  | x | Intercambio de recursos de origen cruzado (CORS) | |
 |  | x | JSON Web Tokens | |
