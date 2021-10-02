@@ -45,5 +45,5 @@
 |  | x | Intercambio de recursos de origen cruzado (CORS) | |
 |  | x | JSON Web Tokens | ✔ |
 |  | x | Diseño CRUD | ✔ |
-|  | x | Ambientes de Implementación | |
-|  | x | Despliegue de aplicaciones | |
+|  | x | Ambientes de Implementación | ✔ |
+|  | x | Despliegue de aplicaciones | ✔ |
