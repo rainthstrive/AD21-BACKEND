@@ -42,7 +42,7 @@
 |  | x | APIs REST | ✔ |
 |  | x | Probando APIs con Postman | ✔ |
 |  | x | Salt, Pepper, y Hashing | ✔ |
-|  | x | Intercambio de recursos de origen cruzado (CORS) | |
+|  | x | Intercambio de recursos de origen cruzado (CORS) | ✔ |
 |  | x | JSON Web Tokens | ✔ |
 |  | x | Diseño CRUD | ✔ |
 |  | x | Ambientes de Implementación | ✔ |
